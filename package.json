@@ -1,6 +1,6 @@
 {
-  "_from": "react-native-image-cropping@^1.0.0",
-  "_id": "react-native-image-cropping@1.0.0",
+  "_from": "react-native-image-cropping@^1.0.1",
+  "_id": "react-native-image-cropping@1.0.1",
   "_inBundle": false,
   "_integrity": "sha1-9dsFdS16D1vdpxogU0BH2T4Q+Ig=",
   "_location": "/react-native-image-cropping",
@@ -8,20 +8,20 @@
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "react-native-image-cropping@^1.0.0",
+    "raw": "react-native-image-cropping@^1.0.1",
     "name": "react-native-image-cropping",
     "escapedName": "react-native-image-cropping",
-    "rawSpec": "^1.0.0",
+    "rawSpec": "^1.0.1",
     "saveSpec": null,
-    "fetchSpec": "^1.0.0"
+    "fetchSpec": "^1.0.1"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-image-cropping/-/react-native-image-cropping-1.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/react-native-image-cropping/-/react-native-image-cropping-1.0.1.tgz",
   "_shasum": "f5db05752d7a0f5bdda71a20534047d93e10f888",
-  "_spec": "react-native-image-cropping@^1.0.0",
+  "_spec": "react-native-image-cropping@^1.0.1",
   "_where": "d:\\tiktak.client-app",
   "bugs": {
     "url": "https://github.com/meznaric/react-native-image-cropping/issues"
@@ -45,5 +45,5 @@
     "type": "git",
     "url": "git+https://github.com/meznaric/react-native-image-cropping.git"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
